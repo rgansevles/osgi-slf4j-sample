@@ -1,0 +1,1 @@
+# osgi-slf4j-sample
